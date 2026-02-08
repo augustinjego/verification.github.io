@@ -1,2 +1,30 @@
-[moneymotion-domain-verification.txt](https://github.com/user-attachments/files/25164182/moneymotion-domain-verification.txt)
-moneymotion-domain-verification=6c6ad5fe00bfb6f5c141170cd9c8ac4f3d7b12d7bc4b584a0f8f20878b9a4c26
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nom de ton entreprise</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      text-align: center;
+    }
+    .verification {
+      margin-top: 50px;
+      font-size: 18px;
+      color: #333;
+      border: 1px solid #ccc;
+      padding: 20px;
+      display: inline-block;
+    }
+  </style>
+</head>
+<body>
+  <h1>Bienvenue sur [Ton Trade Name]</h1>
+  <div class="verification">
+    Phrase de vérification MoneyMotion : <br>
+    <strong>[INSÉRER ICI LA PHRASE FOURNIE PAR MONEYMOTION]</strong>
+  </div>
+</body>
+</html>
