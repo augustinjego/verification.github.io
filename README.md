@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Nom de ton entreprise</title>
+  <title>CS2 boosting</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -21,9 +21,9 @@
   </style>
 </head>
 <body>
-  <h1>Bienvenue sur [Ton Trade Name]</h1>
+  <h1>Bienvenue sur etoilee</h1>
   <div class="verification">
-    Phrase de vérification MoneyMotion : <br>
+    Phrase de vérification MoneyMotion :v1U-6Ir-gv1- <br>
     <strong>[INSÉRER ICI LA PHRASE FOURNIE PAR MONEYMOTION]</strong>
   </div>
 </body>
