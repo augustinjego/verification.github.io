@@ -24,7 +24,7 @@
   <h1>Bienvenue sur etoilee</h1>
   <div class="verification">
     Phrase de vérification MoneyMotion :v1U-6Ir-gv1- <br>
-    <strong>[INSÉRER ICI LA PHRASE FOURNIE PAR MONEYMOTION]</strong>
+    <strong>v1U-6Ir-gv1-</strong>
   </div>
 </body>
 </html>
