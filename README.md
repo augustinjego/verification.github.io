@@ -103,7 +103,7 @@
 
   <!-- ===== HEADER ===== -->
   <header>
-    <h1>💫💫</h1>
+    <h1>Welcome to 💫💫</h1>
     <p> CS2 Boosting • NFA seller</p>
   </header>
 
@@ -114,7 +114,7 @@
     <h2>About</h2>
     <div class="card">
       <p>
-        Welcome to <span class="highlight">Your Trade Name</span>.
+        Welcome to <span class="highlight">💫💫</span>.
         We provide gaming services focused on Counter-Strike 2 (CS2),
         along with an active Discord community for our clients.
       </p>
@@ -147,10 +147,10 @@
 
   <!-- ===== NFA ACCOUNTS ===== -->
   <section>
-    <h2>NFA (Non-Permanent Accounts)</h2>
+    <h2>NFA (Not Full Access)</h2>
     <div class="card">
       <p>
-        We also offer <span class="highlight">NFA (Non-Full Access)</span> accounts.
+        We also offer <span class="highlight">NFA</span> accounts.
       </p>
 
       <p>
@@ -201,13 +201,13 @@
       <p>
         Discord (contact):
         <br />
-        <strong>YOUR_DISCORD_USERNAME#0000</strong>
+        <strong>@augustin.ktz</strong>
       </p>
 
       <p>Server link:</p>
 
       <!-- REPLACE # WITH YOUR ACTUAL DISCORD SERVER LINK -->
-      <a href="#" target="_blank">
+      <a href="https://discord.gg/BdJKZYfV" target="_blank">
         Join our Discord Server
       </a>
     </div>
