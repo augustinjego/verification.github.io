@@ -103,8 +103,8 @@
 
   <!-- ===== HEADER ===== -->
   <header>
-    <h1>Your Trade Name</h1>
-    <p>Gaming Services • CS2 Boost • Discord Community</p>
+    <h1>💫💫</h1>
+    <p> CS2 Boosting • NFA seller</p>
   </header>
 
   
