@@ -107,13 +107,7 @@
     <p>Gaming Services • CS2 Boost • Discord Community</p>
   </header>
 
-  <!-- ===== MONEY MOTION VERIFICATION ===== -->
-  <div class="verification">
-    <strong>
-      <!-- REPLACE THE LINE BELOW WITH THE EXACT PHRASE PROVIDED BY MONEYMOTION -->
-      MoneyMotion verification: INSERT EXACT VERIFICATION PHRASE HERE
-    </strong>
-  </div>
+  
 
   <!-- ===== ABOUT ===== -->
   <section>
