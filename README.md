@@ -1,2 +1,1 @@
-v1U-6Ir-gv1-
-# verification.github.io
+moneymotion-domain-verification=6c6ad5fe00bfb6f5c141170cd9c8ac4f3d7b12d7bc4b584a0f8f20878b9a4c26
